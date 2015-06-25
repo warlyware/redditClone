@@ -6,3 +6,8 @@ select {
   margin-top: 8px;
   width: 100%;
 }
+
+.glyphicon-trash:hover {
+  color: red;
+  cursor: pointer;
+}
